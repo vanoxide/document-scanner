@@ -51,4 +51,4 @@ samples/           example input photos
 
 ## Built with
 
-Python · OpenCV · NumPy · Pillow — CSE381 Computer Vision, MSA University
+Python · OpenCV · NumPy · Pillow
